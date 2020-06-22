@@ -1,27 +1,27 @@
 # Site setings
-name: 'polarize.ai'
-description: 'A personal blog about smart IoT now - a top secret, world changing, machine learning stealth project to be incubated later given resources.'
-meta_description: 'A personal blog about smart IoT - a top secret, world changing, machine learning stealth project to be incubated later given resources.'
+name: 'ZiRuiDing'
+description: 'A personal blog .'
+meta_description: 'A personal blog .'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl:
-production_url: https://blog.polarize.ai/
-disqus: 'blog-polarize-ai'
+production_url: https://ziruiding.github.io/
+disqus: 'blog-ziruiding'
 mailchimp_url: 'https://googlemail.us3.list-manage.com/subscribe/post?u=66cee5cf71db1352106476b32&amp;id=7e75fbb25c'
 cover_image: cover_1.jpg
 lang: 'en'
 
 # Add your GA Tracking Id
 ga_analytics: UA-144918260-1
-url: "https://blog.polarize.ai"
+url: "https://ziruiding.github.io/"
 
 # Author
 author:
-  name: 'Helmut Hoffer von Ankershoffen'
+  name: 'ZiRuiDing'
   image: 'helmut-hoffer-von-ankershoffen-ne-oertel.jpg'
   greetings: 'Hi there!'
-  description: "My name is Helmut Hoffer von Ankershoffen born Oertel. I'm a technical manager and software engineer in Berlin, working in the Internet economy since 1997."
-  bio: 'I am a technical manager and software engineer in Berlin working as founder, CEO or CTO since 1997.'
+  description: "My name is ZiRuiDing. I studied at Xi'an University of Electronic Science and Technology."
+  bio: 'I am very cute'
   twitter: 'h_ankershoffen'
 
 # Twitter
@@ -34,11 +34,11 @@ social:
   links:
     - 'https://twitter.com/h_ankershoffen'
     - 'https://www.linkedin.com/in/helmut-hoffer-von-ankershoffen/'
-    - 'https://github.com/helmut-hoffer-von-ankershoffen'
+    - 'https://github.com/ZIRUIDING'
 
 # Social links
 social_twitter: 'h_ankershoffen'
-social_github: 'helmut-hoffer-von-ankershoffen'
+social_github: 'ZIRUIDING'
 social_instagram: 'helmut.hoffer.von.ankershoffen'
 social_linkedin: 'helmut-hoffer-von-ankershoffen'
 social_reddit: 'helmuthva'
@@ -46,9 +46,9 @@ social_about: 'https://helmut.hoffer-von-ankershoffen.me'
 
 # Navigation
 navigation:
-  - text: Blog
+  - text: 博客
     url: /
-  - text: About
+  - text: 关于
     url: /about
   - text: Glossary
     url: /glossary
